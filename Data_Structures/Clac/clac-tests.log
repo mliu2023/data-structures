@@ -1,0 +1,32 @@
+
+
+==================================================
+Task 5, (Pick)
+--------------------------------------------------
+Test Pick-0, expect exception - good, this worked
+
+==================================================
+Task 3, (skip, **)
+--------------------------------------------------
+Test Skip and **-0, expect successful execution - good, this worked
+
+==================================================
+Task 4, (Functions)
+--------------------------------------------------
+Test Functions-0, expect successful execution - good, this worked
+
+==================================================
+Task 1, (arithmetic expression)
+--------------------------------------------------
+Test addition-0, expect successful execution - good, this worked
+Test addition-1, expect exception - good, this worked
+
+==================================================
+Task 2, (rotate, if)
+--------------------------------------------------
+Test Rotate & if-0, expect successful execution - good, this worked
+
+==================================================
+Tests run in: 36 ms
+Tests passed: 6
+Tests failed: 0
