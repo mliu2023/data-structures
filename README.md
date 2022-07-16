@@ -1,2 +1,2 @@
 # Data-structures
-Code from my data structures class
+This repository contains code written in my data structures class.
